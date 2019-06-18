@@ -1,0 +1,6 @@
++ ctrl+alt+izq|der: prev-next editable zone
++ ctrl+alt+w: surround with tag
+ctrl+shift+':update tag
+ctrl+shift+`: remove tag
+
+live-server
